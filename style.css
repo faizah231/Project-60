@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
